@@ -41,5 +41,5 @@
 ## COVID detection using X_RAY:-
 
    * https://github.com/V2dha/NOvid-20/tree/master/Detection
-   
-   * https://github.com/V2dha/NOvid-20/pull/35
+
+   * https://github.com/V2dha/NOvid-20/pull/36
